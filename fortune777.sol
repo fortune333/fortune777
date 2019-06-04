@@ -3,6 +3,8 @@ pragma solidity 0.4.25;
 /**
 *
 * Get your 7,77% every day profit with Fortune 777 Contract!
+* GitHub https://github.com/fortune333/fortune777
+* Site https://fortune333.online/
 *
 */
 
